@@ -1,0 +1,6 @@
+﻿Build started at 12:06 SA...
+1>------ Build started: Project: Buoi01_A1, Configuration: Debug Any CPU ------
+1>  Skipping analyzers to speed up the build. You can execute 'Build' or 'Rebuild' command to run analyzers.
+1>  Buoi01_A1 -> C:\Users\PC\source\repos\Buoi01_A1\Buoi01_A1\bin\Debug\net10.0\Buoi01_A1.dll
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 12:06 SA and took 00,683 seconds ==========
